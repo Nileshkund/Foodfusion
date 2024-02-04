@@ -1,5 +1,5 @@
-# Meal Planner
-This project is a Meal Planner application which is built using HTML, CSS and JavaScript. It uses the Spoonacular API to generate meal plans for users.
+# Foodfusion
+This project is a Foodfusion application which is built using HTML, CSS and JavaScript. It uses the Spoonacular API to generate meal plans for users.
 
 # Features
 1. Generate meal plans according to daily calorie requirements of user.
